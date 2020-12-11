@@ -5,4 +5,7 @@ icewm complete white theme!
 
 <img src = "https://raw.githubusercontent.com/siduck765/icewm-dotfiles/master/fina.png">
 
-reddit post : https://www.reddit.com/r/unixporn/comments/iar6kq/icewm_icewm_is_cool/?utm_source=share&utm_medium=web2x
+#dark version 
+
+<img src ="https://raw.githubusercontent.com/siduck765/icewm_dark/master/icewmdark!.png"> dots https://github.com/siduck765/icewm_dark
+
